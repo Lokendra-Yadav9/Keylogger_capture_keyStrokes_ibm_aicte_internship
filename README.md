@@ -1,3 +1,8 @@
+![textfile](https://github.com/lokendra0906/Keylogger_capture_keyStrokes_ibm_aicte_internship/assets/88609858/9fda66a8-845a-4234-b745-c7aad381c17c)
+![start time](https://github.com/lokendra0906/Keylogger_capture_keyStrokes_ibm_aicte_internship/assets/88609858/fda9e82d-d91b-4a7a-b884-0e4bf80f6dd7)
+![running](https://github.com/lokendra0906/Keylogger_capture_keyStrokes_ibm_aicte_internship/assets/88609858/6ce821b4-26d3-4a62-b378-3f1ca6bf6501)
+![json generated](https://github.com/lokendra0906/Keylogger_capture_keyStrokes_ibm_aicte_internship/assets/88609858/a4feff6a-ea97-46c2-9eda-8dec3ce3cdc2)
+![text file genrated](https://github.com/lokendra0906/Keylogger_capture_keyStrokes_ibm_aicte_internship/assets/88609858/029ba5d7-e19b-48d4-938d-289fbc97a5b6)
 # Keylogger_capture_keyStrokes_ibm_aicte_internship
 The purpose of this application is to keep tracks on every key that is typed through the keyboard and  send it to the admin through the mail server in the time set or given. It provides confidentiality as  well as data recovery to all the IT infrastructures in need.
 HARDWARE REQUIREMENTS:
